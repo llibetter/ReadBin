@@ -1,0 +1,7 @@
+C:\Users\lli\source\repos\ReadBin\ReadBin\bin\Debug\ReadBin.exe.config
+C:\Users\lli\source\repos\ReadBin\ReadBin\bin\Debug\ReadBin.exe
+C:\Users\lli\source\repos\ReadBin\ReadBin\bin\Debug\ReadBin.pdb
+C:\Users\lli\source\repos\ReadBin\ReadBin\obj\Debug\ReadBin.csprojAssemblyReference.cache
+C:\Users\lli\source\repos\ReadBin\ReadBin\obj\Debug\ReadBin.csproj.CoreCompileInputs.cache
+C:\Users\lli\source\repos\ReadBin\ReadBin\obj\Debug\ReadBin.exe
+C:\Users\lli\source\repos\ReadBin\ReadBin\obj\Debug\ReadBin.pdb
